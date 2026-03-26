@@ -1,7 +1,7 @@
 {
     "app_name": {
-        "en": "PressReader",
-        "tr": "PressReader"
+        "en": "WordReader",
+        "tr": "WordReader"
     },
     "home": {
         "en": "Home",
@@ -28,8 +28,8 @@
         "tr": "Emin misin?"
     },
     "title": {
-        "en": "PressReader - Your Ultimate WordPress Reader",
-        "tr": "PressReader - En İyi WordPress Okuyucunuz"
+        "en": "WordReader - Your Ultimate WordPress Reader",
+        "tr": "WordReader - En İyi WordPress Okuyucunuz"
     },
     "menu_features": {
         "en": "Features",
@@ -124,8 +124,8 @@
         "tr": "resources/tr/showcase-5.jpg"
     },
     "footer": {
-        "en": "© 2024 PressReader. All rights reserved.",
-        "tr": "© 2024 PressReader. Tüm hakları saklıdır."
+        "en": "© 2024 WordReader. All rights reserved.",
+        "tr": "© 2024 WordReader. Tüm hakları saklıdır."
     },
     "privacy_policy_title": {
         "en": "Privacy Policy",
